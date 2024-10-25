@@ -55,7 +55,7 @@
 | CryptoMediaCap          | ![cryptomediacap](https://github.com/AsharibAli/blockchain-research-tools/assets/102221198/3de70c9e-7d8d-4a4a-adfb-114488beca2f)                   | [cryptomediacap.com](https://coinmediacap.com/)                               | [LinkedIn](https://www.linkedin.com/in/michaeldieckmann/)     | CryptoMediaCap aggregate social media data and rate coin news with AI for rumors, innovation etc. |
 | Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
 | Holder.io          | ![Holder.io](https://github.com/user-attachments/assets/dfec5e5a-2795-4e01-a6fe-5d5dc857db19)                   | [holder.io](https://holder.io/)                               | [Twitter](https://x.com/Holder_io)     | A platform for tracking cryptocurrencies, tokens, and exchanges with analytical tools. |
-
+| Ave.ai          | ![AVE.ai](https://github.com/zz24tc/ave/blob/main/Universal%20Data.png)                   | [ave.ai](https://ave.ai/)                               | [Twitter](https://x.com/aveaiofficial)     | The most powerful Meme coin/crypto trading platform using AI and advanced data tools. |
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
 ## Contribution Guidelines
